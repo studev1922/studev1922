@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Duy Hòa(studev-Courage)
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming, swimming and take a walk
 - 🌱 I’m currently learning ExpressJS and ReactJS
 - 📫 How to reach me [sdhoa1922@gmail.com](sdhoa1922@gmail.com)
 
