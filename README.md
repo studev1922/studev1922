@@ -1,4 +1,4 @@
-# Courage - studev(Duy Hòa)
+# studev - Courage(Duy Hòa)
 - 👋 Hi, I’m Duy Hòa(studev-Courage)
 - 👀 I’m interested in programming, swimming and take a walk
 - 🌱 I’m currently learning ExpressJS and ReactJS
