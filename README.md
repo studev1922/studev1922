@@ -4,7 +4,13 @@
 
 
 # 💻 Tech Stack:
-![break](https://gcs.tripi.vn/public-tripi/tripi-feed/img/474091YAt/anh-avatar-buon-thay-tinh_110430341.png)
+<div style="display: flex">
+  <img src="https://cdn.dribbble.com/users/1217613/screenshots/3866417/3.gif" alt="break" style="width:200px; height:150px; object-fit: cover;"/>
+  <img src="https://media2.giphy.com/media/MERjhyzVjYKWdCR1Y6/giphy.gif" alt="unemployment" style="width:200px; height:150px; object-fit: cover;"/>
+  <img src="https://www.plerdy.com/wp-content/uploads/2023/07/giphy-13.gif" style="width:200px; height:150px; object-fit: cover;"/>
+  <img src="https://64.media.tumblr.com/15c737df7fdbd4069fc273baaaed618b/tumblr_oydyz3ymZS1qbdrkbo5_500.gifv" style="width:200px; height:150px; object-fit: cover;"/> 
+</div>
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
